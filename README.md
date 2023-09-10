@@ -1,16 +1,2 @@
-# profile_assignment
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+flutter_profile_assignment
+A simple app that displays my slack name, profile picture and a Github button. when the button is clicked it builds a web page within the app. steps are as follows; a. I added two varriables the holds my image and slack username b.created a stateful widget that returns a column with Text, Circular Avatar and a button widget. c.I utilized the webView package in navigating to the web page within the app. d. optionally, i choosed to add the flutter_icons package to change the default flutter icon.
