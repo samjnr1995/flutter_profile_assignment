@@ -5,3 +5,4 @@ a. I added two  varriables the holds my image and slack username
 b.created a stateful widget that returns a column with Text, Circular Avatar and a button widget.
 c.I utilized the webView package in navigating to the web page within the app.
 d. optionally, i choosed to add the flutter_icons package to change the default flutter icon.
+the code is been pushed to the master branch.
